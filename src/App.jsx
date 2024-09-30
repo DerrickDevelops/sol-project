@@ -7,9 +7,12 @@ function App() {
   return (
     <>
       <Navbar />
-      <h1>The Sol System</h1>
-    <p>Welcome, please select a planet.</p>
-    </>
+      <h1 className='header'>The Sol System</h1>
+    <p className='sub-header'>Welcome, please select a planet.</p>
+    <div className='planet-selection'>
+        
+        </div>
+     </>
   )
 }
 
