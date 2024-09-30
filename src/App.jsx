@@ -7,7 +7,8 @@ function App() {
   return (
     <>
       <Navbar />
-      <h1>Sol System Website</h1>
+      <h1>The Sol System</h1>
+    <p>Welcome, please select a planet.</p>
     </>
   )
 }
