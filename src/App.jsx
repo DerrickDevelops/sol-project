@@ -19,6 +19,10 @@ function App() {
         <button className='planet' id='uranus'>uranus</button>
         <button className='planet' id='neptune'>neptune</button>
         </div>
+        <footer>
+          <p>Have a question?</p>
+          <button>Contact Us!</button>
+          </footer>
      </>
   )
 }
