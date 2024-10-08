@@ -6,7 +6,12 @@ function Navbar() {
 
   return (
     <>
-      
+      <ul>
+      	<li><a href=''>Planets</a></li>
+        <li><a href=''>Systems</a></li>
+        <li><a href=''>About Us</a></li>
+        <li><a href=''>Contact</a></li>
+      </ul>
      </>
   )
 }
