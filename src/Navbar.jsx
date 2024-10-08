@@ -6,6 +6,7 @@ function Navbar() {
 
   return (
     <>
+    	<img src='' alt='logo' />
       <ul>
       	<li><a href=''>Planets</a></li>
         <li><a href=''>Systems</a></li>
